@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 :star: :star: :star: :star: :star:
 
-<div align="justify">11+ years of experience in the Technology Area. Post Graduate in Multiplatform Mobile Application Development and with over 6 years of experience in Quality Assurance area, who is comfortable working with Development and making things happen to deliver awesome user experience. Team worker, focused on detail, flexible and committed, I like to learn and help the team. Since 2021 I'm actively learning about the Flutter environment with the intention of developing fast, solid, simple and flexible apps for multiple platforms in a single codebase saving time and using a beautiful UI.</div>
+<div align="justify">11+ years of experience in the Technology Area. Post Graduate in Multiplatform Mobile Application Development and with over 6 years of experience in Quality Assurance area, who is comfortable working with Development and making things happen to deliver awesome user experience. Team worker, focused on detail, flexible and committed, I like to learn and help the team. Since 2021 I'm actively learning and practicing with the intention of developing fast, solid, simple and flexible apps for multiple platforms in a single codebase saving time and using a beautiful UI.</div>
 <br>
 
 - 🔭 I'm currently in a career transition from Software Quality Specialist to Software Developer.
-- 🌱 I'm proficient in Dart and Javascript, with good knowledge of Programming Logics and deep knowledge of Usability.
+- 🌱 I'm proficient in Dart, C# and Javascript, with good knowledge of Programming Logics and deep knowledge of Usability.
 - 🤔 I’m looking for help a team to develop a good solution.
 - ⚡ Attention to detail, flexibility and Problem Solving are some of my main characteristics.
 - 📫 Hire me: [hello@mmartyn.dev](mailto:hello@mmartyn.dev) - [LinkedIn](https://www.linkedin.com/in/mmartyndev/)
