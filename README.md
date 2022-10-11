@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 
 - 🔭 I'm currently in a career transition from Software Quality Specialist to Software Developer.
-- 🌱 I'm proficient in Dart, C# and Javascript, with good knowledge of Programming Logics and deep knowledge of Usability.
+- 🌱 I'm proficient in C#, Javascript, SQL and Dart with good knowledge of Programming Logics and deep knowledge of Usability.
 - 🤔 I’m looking for help a team to develop a good solution.
 - ⚡ Attention to detail, flexibility and Problem Solving are some of my main characteristics.
 - 📫 Hire me: [hello@mmartyn.dev](mailto:hello@mmartyn.dev) - [LinkedIn](https://www.linkedin.com/in/mmartyndev/)
