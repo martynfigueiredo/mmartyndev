@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - 🌱 I'm proficient in C#, Javascript, SQL and Dart with good knowledge of Programming Logics and deep knowledge of Usability.
 - 🤔 I’m looking for help a team to develop a good solution.
 - ⚡ Attention to detail, flexibility and Problem Solving are some of my main characteristics.
-- 📫 Hire me: [hello@mmartyn.dev](mailto:hello@mmartyn.dev) - [LinkedIn](https://www.linkedin.com/in/mmartyndev/)
+- 📫 Hire me: [martynfigueiredo@outlook.com](mailto:martynfigueiredo@outlook.com) - [LinkedIn](https://www.linkedin.com/in/martynfigueiredo/)
 
